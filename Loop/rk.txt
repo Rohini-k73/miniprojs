@@ -1,0 +1,31 @@
+Loops
+
+
+Loops are used to perform repetitive tasks in programming. For example, if you wanted to print something 20 times, you could do it manually, but what if you needed to print it 20,000 times? That's where loops come in handy.
+
+There are 5 types of loops in JavaScript:
+
+for loop
+for-in loop
+for-of loop
+while loop
+do-while loop
+In this lesson, we'll learn about the first 3 types of loops.
+
+For Loops
+The syntax for a for loop is as follows:
+
+for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}
+
+
+while Loop
+A while loop is a type of loop that repeatedly executes a block of code while a particular condition is true. The loop will keep executing until the condition becomes false.
+
+Syntax
+The syntax of the while loop is as follows:
+
+while (condition) {
+    // code to be executed
+}
